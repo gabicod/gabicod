@@ -1,9 +1,6 @@
 
 # Hi there, I'm Gabriel Freitas! 👋
 
-![Header](https://github.com/gabicod/gabicod/raw/downloads/header.png)
-
-
 ## 🚀 About me
 Full stack always chasing for innovation and new stacks.
 I also use my web knowledge to boost digital marketing campaigns and their websites.
@@ -28,12 +25,8 @@ I also use my web knowledge to boost digital marketing campaigns and their websi
 
 
 ## 📊 Personal Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔧 What I do
 
